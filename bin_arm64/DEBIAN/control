@@ -1,0 +1,7 @@
+Package: 3proxy
+Version: 0.8.11
+Section: misc
+Architecture: arm64
+Depends: 
+Maintainer: none
+Description: 3proxy
