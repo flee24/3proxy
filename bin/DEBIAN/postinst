@@ -1,0 +1,14 @@
+#!/bin/sh
+# postinst script for 3proxy
+
+USERNAME="proxy3"
+
+set -e
+
+#adduser --system --no-create-home --disabled-login --group $USERNAME
+
+#U_ID="$(id -u $USERNAME)"
+#G_ID="$(id -g $USERNAME)"
+
+#echo "setuid $U_ID" >> /etc/3proxy/3proxy.cfg
+#echo "setgid $G_ID" >> /etc/3proxy/3proxy.cfg
